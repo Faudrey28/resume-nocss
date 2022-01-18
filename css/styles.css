@@ -1,6 +1,9 @@
 body {
   background-color: #EAF6F6;
 }
+img: hover {
+  background-color: gold;
+}
 h1 {
   color: #66BFBF;
 }
